@@ -1,0 +1,5 @@
+1. Python application
+2. Dockerized application
+3 Jenkins/GitHub Actions
+4 Terraform
+5 K8s
