@@ -7,5 +7,5 @@ variable "replicas" {
 variable "flask-image" {
     description = "value for the flask image"
     type = string
-    default = "gideonisbuilding/flask-hello:2.0"
+    default = "gideonisbuilding/flask-hello:1"
 }
